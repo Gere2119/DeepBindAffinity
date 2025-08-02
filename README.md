@@ -3,7 +3,7 @@ DeepBindAffinity is a deep learning methd based on ResNet and a multihead-attent
 
 The raw data can be found at [PDBbind](https://www.pdbbind-plus.org.cn/) database.
 
-Data preprocessing can be referred to ./precode/. The processed data is stored in ./data/.
+Data preprocessing is stored in ./precode/. The processed data is stored in ./data/.
 # Requirements
 
 python 3.9.12
