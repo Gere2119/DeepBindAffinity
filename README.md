@@ -45,7 +45,7 @@ You can create GPU enabed environment
      
     python main.py
 
-To train the model
+  To test the model
 
     python test.py
 
