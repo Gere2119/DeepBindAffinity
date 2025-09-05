@@ -65,3 +65,14 @@ The training result is stored in `./src/Results/kfold-result.csv`
 The test result is stored in `./src/Results/test-result.csv`
 
 Every output file follows the same structure with three data columns: protein identifiers in the first column, measured binding affinities in the second column, and our model's predicted affinities in the third column.
+
+## Issues
+
+If you encounter any bugs or have feature requests, please [open an issue]([[https://github.com/Gere2119/DeepBindAffinity/issues](https://github.com/Gere2119/DeepBindAffinity/issues)]
+## Contact
+
+For any questions and collaborations, feel free to reach out.
+[22478025@csu.edu.cn](22478025@csu.edu.cn) or [georgewediasse21believer@gmail.com](georgewediasse21believer@gmail.com)
+
+
+
