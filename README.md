@@ -68,7 +68,7 @@ Every output file follows the same structure with three data columns: protein id
 
 ## Issues
 
-If you encounter any bugs or have feature requests, please [open an issue]([[https://github.com/Gere2119/DeepBindAffinity/issues](https://github.com/Gere2119/DeepBindAffinity/issues)]
+If you encounter any bugs or have feature requests, please [open an issue](https://github.com/Gere2119/DeepBindAffinity/issues)
 ## Contact
 
 For any questions and collaborations, feel free to reach out.
