@@ -54,11 +54,11 @@ You can create GPU enabed environment
 
 The model outputs five key performance indicators after running the test script:
     
-     - **RMSE** (Root Mean Square Error)
-     - **MAE** (Mean Absolute Error)  
-     - **SD** (Standard Deviation)  
-     - **CI** (Confidence Interval)  
-     - **R** (Correlation Coefficient)
+     - RMSE (Root Mean Square Error)
+     - MAE (Mean Absolute Error)  
+     - SD (Standard Deviation)  
+     - CI (Confidence Interval)  
+     - R (Correlation Coefficient)
 
   
 The training result is stored in `./src/Results/kfold-result.csv`
